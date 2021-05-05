@@ -1,4 +1,6 @@
-# gis_1
+# gis
+
+# Introduction
 
 This project was created as part of a final course in the GIS course. 
 The site can add layers to the regular map, Each layer provides a different solution for finding accessibility within the cities,
