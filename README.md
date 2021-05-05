@@ -1,5 +1,5 @@
 # gis project
-& https://noa-dahan.github.io/gis_1/
+ https://noa-dahan.github.io/gis_1/
 
 # Introduction
 
