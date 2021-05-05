@@ -1,0 +1,98 @@
+
+body
+{
+	/*font-family: calibri, Helvetica, sans-serif;*/
+	font-family: Roboto, 'Noto Sans Hebrew', 'Noto Naskh Arabic UI', Arial, sans-serif;
+	background: url("https://meyda.education.gov.il/files/pop/3002/1%D7%90%D7%98%D7%9C%D7%A1-%D7%A0%D7%95%D7%A9%D7%90.jpg") no-repeat center center fixed;
+/*background: url("https://images6.alphacoders.com/481/481285.jpg") no-repeat center center fixed;*/
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+/*check pass Code*/
+}
+h1{
+	margin:10px auto 10px auto;
+	text-align: center;
+	color:white; 
+
+}
+
+/*To change every first letter in a word to a capital letter */
+p.special_info {
+    text-transform:capitalize;
+}
+#MainTitleHR{
+	border-top: 5px ;
+	/*border-top: 5px solid #F0E68C;*/
+	margin:0 15%;
+}
+
+#Block{
+	width:100%;
+}
+/*the CredentialS is blablaAndBlala*/
+#map {
+	margin:5px 0px 0px 0px;
+	height:525px;
+	width: 60%;
+	float:right;
+}
+
+.inp{
+	width:20%;
+	weight:20%;
+}
+.lon,.lat{
+	padding-right:20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.button{
+	margin: 20px 0 0 20px;
+}
+.radioMark{
+	padding-left: 10px;
+	padding-top: 20px;
+	color:white;
+}
+.Layers{
+	width:500px;
+	padding-left: 10px;
+	padding-right:20px;
+	padding-top: 20px;
+	color:white;
+	font-size: 17px;
+	font-weight: 700;
+	display: inline-block;
+}
+/*
+.L123456{
+	display: inline-block;
+}*/
+/*.L4L5L6{
+	display: inline-block;
+	padding-left: 50px;
+}*/
+
+#hrLayer{
+	width:120px;
+	border-top: 5px;
+	margin: 0 10px 0 10px;
+}
+#hrCor{
+	width:140px;
+	border-top: 5px ;
+	margin: 0 0 0 10px;
+}
+h3{
+	padding-left: 15px;
+	color: white;
+}
+
+p{
+	padding-left:10px;
+	color:white;
+	font-weight: 600;
+}
